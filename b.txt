@@ -3,3 +3,5 @@ modified in master
 modified in branch b1
 
 modified in branch dev
+
+do some patches
